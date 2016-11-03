@@ -1,0 +1,2 @@
+# stools
+Little functional JavaScript
